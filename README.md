@@ -1,6 +1,6 @@
 # Modeling the Diffusion of Artistic Traditions among Maori Communities
 
-This simulation model, influenced by Roger Neich's work "Painted Histories: Early Māori Figurative Painting" (1993) and drawing on aspects of Gell's art theory, explores the diffusion of art traditions within Maori communities. It served as the final project for the "Introduction to Complexity" class within the Master's program in Modelagem de Sistemas Complexos.
+This simulation model, influenced by Roger Neich's work "Painted Histories: Early Māori Figurative Painting" (1993) and drawing on aspects of Gell's art theory, explores the diffusion of art traditions within Maori communities. It served as the final project for the "Introduction to Complexity" class within the USP Master's program in Modelagem de Sistemas Complexos.
 
 ## Key Considerations
 In drawing conclusions from this model, it becomes evident that a more comprehensive understanding of the social rules governing art diffusion is essential. The model's structure and the simplicity of rules employed partially explain the intricate patterns observed by Neich. It is crucial to recognize the significance of the social context and acknowledge that the model's parameters may not fully encapsulate the complexities of art diffusion among Maori communities.
